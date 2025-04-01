@@ -12,9 +12,8 @@ The Mini Dice Game is a simple JavaScript project created while learning the bas
 4. No user input required; purely based on prediction and luck.
 
 
-# 📸 Screenshot
-
-(Add a screenshot of your game here to give viewers a preview!)
+# 📸 Screenshot[For a Brief Overview]
+![dice-game-demo](https://github.com/user-attachments/assets/401e80d5-4b30-438f-9387-95e4d502ebfc)
 
 # 🚀 How It Works
 1. When the page is loaded or refreshed, two random numbers between 1 and 6 are generated.
